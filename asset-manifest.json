@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/path-of-exile-ladder/static/css/main.4ea24607.css",
-    "main.js": "/path-of-exile-ladder/static/js/main.c303738c.js",
+    "main.js": "/path-of-exile-ladder/static/js/main.38068db0.js",
     "static/js/787.c563c31a.chunk.js": "/path-of-exile-ladder/static/js/787.c563c31a.chunk.js",
     "index.html": "/path-of-exile-ladder/index.html",
     "main.4ea24607.css.map": "/path-of-exile-ladder/static/css/main.4ea24607.css.map",
-    "main.c303738c.js.map": "/path-of-exile-ladder/static/js/main.c303738c.js.map",
+    "main.38068db0.js.map": "/path-of-exile-ladder/static/js/main.38068db0.js.map",
     "787.c563c31a.chunk.js.map": "/path-of-exile-ladder/static/js/787.c563c31a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ea24607.css",
-    "static/js/main.c303738c.js"
+    "static/js/main.38068db0.js"
   ]
 }
