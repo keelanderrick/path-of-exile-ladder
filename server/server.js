@@ -69,7 +69,7 @@ app.get('/api/character-window', async (req, result) => {
 })
 
 app.get('/api/ladders/:id', async (req, result) => {
-    	ladder = req.params.id
+    	ladder = req.params.id.replace(" ", "%20")
     	type = 'league'
     	limit = '200'
     //fetch(`https://api.pathofexile.com/ladders/${ladder}?type=${type}&limit=${limit}`)
